@@ -1,6 +1,5 @@
-###muls
 [![Build Status](https://travis-ci.org/nullne/muls.svg?branch=master)](https://travis-ci.org/nullne/muls)
-
+###muls
 根据`golang ssh` 实现ssh命令批量执行，有以下特性：
 
 - 支持执行命令，脚本
